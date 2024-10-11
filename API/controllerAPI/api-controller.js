@@ -86,7 +86,5 @@ router.get('/fundraiser/:id', (req, res) => {
 
 
 
-
-
 //Export routing module
 module.exports = router;
